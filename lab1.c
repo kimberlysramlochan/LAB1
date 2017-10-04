@@ -15,7 +15,7 @@ void main (void)
     PORTB = 0b00000000;
     TRISB = 0b00000000;
    
-    //int count = 0;
+    //int count = 0; kimmmyyyyyy change
    
    for (count = 1; count < 16; count++)
     { 
